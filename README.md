@@ -5,6 +5,9 @@ Simple card component built using [Tailwind CSS](https://tailwindcss.com/) via C
 ---
 
 ## 🚀 Live Demo
+### 🖼️ Screenshot
+
+![Homepage](Picture.png)
 
 👉 [Click to View Website](https://ImanNesredin.github.io/Beginner-Tailwind-Project/)
 
