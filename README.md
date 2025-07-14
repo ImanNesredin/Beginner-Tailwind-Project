@@ -1,4 +1,4 @@
- # 🌐 Beginner Tailwind Project
+  # 🌐 Beginner Tailwind Project
  
 Simple card component built using [Tailwind CSS](https://tailwindcss.com/) via CDN
 
